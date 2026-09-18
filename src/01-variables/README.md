@@ -186,7 +186,7 @@ lista = \[];
 
 
 
-Se imprimirá 1 2 3 y un error por tanto mi predicción fue correcta
+Se imprimirá 1 2 3 y un error por tanto mi predicción fue correcta. Esto pasa porque las listas no son mutables
 
 
 
